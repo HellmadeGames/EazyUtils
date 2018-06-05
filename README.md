@@ -5,14 +5,14 @@ This collections is made up of code we use in our own project. At this point, mo
 
 ## Editor
 ### EditorUtils
-Writing...
+Various functions and utilities for editor programming. These are created to make creating custom editors and inspectors easier.
 
 ## Misc
 ### MonoSingleton
-Writing...
+Singleton class for Monobehaviours. The purpose of using this class is to be able to have singleton scripts that can also can be attached to gameobjects, and therefore have their own instance.
 
 ### StringUtils
-Writing...
+Various functions and utilities to work with strings.
 
 ### ImageUtils
-Writing...
+Various functions and utilities to work with images, textures or sprites.
