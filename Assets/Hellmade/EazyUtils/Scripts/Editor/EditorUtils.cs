@@ -13,7 +13,10 @@ namespace Hellmade.EazyUtils.Editor
         {
             Selection.activeGameObject = obj;
             EditorGUIUtility.PingObject(obj);
-            SceneView.lastActiveSceneView.FrameSelected();
+            if (SceneView.lastActiveSceneView != null)
+            {
+                SceneView.lastActiveSceneView.FrameSelected();
+            }
         }
 
         /// <summary>
