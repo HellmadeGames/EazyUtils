@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Hellmade.EazyUtils.WWW
 {
-    public class URLUtils : MonoBehaviour
+    public class URLUtils
     {
 
         /// <summary>

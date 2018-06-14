@@ -34,10 +34,6 @@ namespace Hellmade.EazyUtils
 				instance = this as T;
 				DontDestroyOnLoad(this.gameObject);
 			}
-			else
-			{
-				Destroy(gameObject);
-			}
 		}
 	}
 }

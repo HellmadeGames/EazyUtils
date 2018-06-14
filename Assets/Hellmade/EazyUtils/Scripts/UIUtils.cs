@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Hellmade.EazyUtils.UI
 {
-    public class UIUtils : MonoBehaviour
+    public class UIUtils
     {
         /// <summary>
         /// Checks if a click/touch was done inside the boundaries of a UI object. Returns false if no click/touch was done at all
