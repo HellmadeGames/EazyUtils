@@ -3,6 +3,10 @@ EazyUtils is a collections of utilities, helpers and script extensions wrapped u
 
 This collections is made up of code we use in our own project. At this point, most of them has become essential any time we start a new project, and therefore a package to include them all is the way to go.
 
+## Mesh
+### MeshUtils
+Various functions and utilities to work with meshes, mesh renderers and mesh filters.
+
 ## Editor
 ### EditorUtils
 Various functions and utilities for editor programming. These are created to make creating custom editors and inspectors easier.
@@ -24,3 +28,7 @@ Various functions and utilities to work with strings.
 
 ### ImageUtils
 Various functions and utilities to work with images, textures or sprites.
+
+## Extensions
+### TransformExtensions
+Various extensions for the Transform class.
