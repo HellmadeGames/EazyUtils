@@ -3,7 +3,7 @@
 namespace Hellmade.EazyUtils
 {
     /// <summary>
-    /// Singleton class for Monobehaviours
+    /// Singleton class for Monobehaviours. The purpose of using this class is to be able to have singleton scripts that can also can be attached to gameobjects, and therefore have their own instance.
     /// </summary>
     /// <typeparam name="T"></typeparam>
 	public class MonoSingleton<T> : MonoBehaviour where T : Component

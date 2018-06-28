@@ -4,6 +4,9 @@ using UnityEngine;
 
 namespace Hellmade.EazyUtils.UI
 {
+    /// <summary>
+    /// Various functions and utilities to work with UI elements
+    /// </summary>
     public class UIUtils
     {
         /// <summary>

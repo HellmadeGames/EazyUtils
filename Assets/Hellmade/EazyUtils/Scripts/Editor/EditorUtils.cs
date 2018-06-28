@@ -3,6 +3,9 @@ using UnityEngine;
 
 namespace Hellmade.EazyUtils.Editor
 {
+    /// <summary>
+    /// Various functions and utilities for editor programming. These are created to make creating custom editors and inspectors easier.
+    /// </summary>
     public class EditorUtils
     {
         /// <summary>

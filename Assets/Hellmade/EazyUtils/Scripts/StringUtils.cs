@@ -5,6 +5,9 @@ using UnityEngine;
 
 namespace Hellmade.EazyUtils
 {
+    /// <summary>
+    /// Various functions and utilities to work with strings.
+    /// </summary>
     public class StringUtils
     {
         /// <summary>

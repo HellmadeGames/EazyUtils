@@ -4,6 +4,9 @@ using UnityEngine;
 
 namespace Hellmade.EazyUtils.Mesh
 {
+    /// <summary>
+    /// Various functions and utilities to work with meshes, mesh renderers and mesh filters.
+    /// </summary>
     public class MeshUtils
     {
         /// <summary>

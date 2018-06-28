@@ -4,9 +4,11 @@ using UnityEngine;
 
 namespace Hellmade.EazyUtils.WWW
 {
+    /// <summary>
+    /// Various functions and utilities to work with URLs and network-related tasks
+    /// </summary>
     public class URLUtils
     {
-
         /// <summary>
         /// Navigates to a given URL using the system's default internet broswer
         /// </summary>
