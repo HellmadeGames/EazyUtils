@@ -30,9 +30,9 @@ Various functions and utilities to work with strings.
 ### ImageUtils
 Various functions and utilities to work with images, textures or sprites.
 
-### CoroutineUtils
-Various functions and utilities to work with Coroutines.
-
 ## Extensions
 ### TransformExtensions
 Various extensions for the Transform class.
+
+### EnumExtensions
+Various extensions for enums.
