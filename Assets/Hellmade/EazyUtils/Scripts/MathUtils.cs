@@ -4,6 +4,9 @@ using UnityEngine;
 
 namespace Hellmade.EazyUtils.Math
 {
+    /// <summary>
+    /// Various mathematical functions and utilities
+    /// </summary>
     public class MathUtils
     {
         /// <summary>

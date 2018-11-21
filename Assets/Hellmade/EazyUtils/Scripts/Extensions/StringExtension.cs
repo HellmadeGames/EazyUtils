@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Various extensions for the String class
+/// </summary>
 public static class StringExtension
 {
     /// <summary>
