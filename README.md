@@ -11,14 +11,13 @@ This collections is made up of code we use in our own project. At this point, mo
 - **MeshUtils:** Various functions and utilities to work with meshes, mesh renderers and mesh filters.
 
 ## Editor
-- **EditorUtil:** Various functions and utilities for editor programming. These are created to make creating custom editors and inspectors easier.
+- **EditorUtil:** Various functions and utilities for editor programming. These are created to make creating custom editors and inspectors. easier.
 
 ## UI
-- **UIUtils:** Various functions and utilities to work with UI elements
+- **UIUtils:** Various functions and utilities to work with UI elements.
 
 ## WWW
-### URLUtils
-Various functions and utilities to work with URLs and network-related tasks
+- **URLUtils:** Various functions and utilities to work with URLs and network-related tasks.
 
 ## Misc
 - **MonoSingleton:** Singleton class for Monobehaviours. The purpose of using this class is to be able to have singleton scripts that can also can be attached to gameobjects, and therefore have their own instance.
